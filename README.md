@@ -12,13 +12,16 @@ Currently, I'm focused on deepening my knowledge of **Flutter, software architec
 
 ## 🚀 About Me
 
-* 📱 Mobile Developer with a strong focus on **Flutter**
+* 📱 Mobile Developer with a strong focus on **Flutter and Mobile Development**
 * 💻 Experience with **Flutter, React Native, Java, Swift, PHP and Node.js**
-* 🏗️ Interested in **Clean Architecture, scalable systems and software engineering**
+* 🏗️ Interested in **Software Engineering, Clean Architecture, SOLID principles and scalable systems**
+* 🧩 Passionate about **clean, maintainable and well-structured code**
 * 🎓 Bachelor's degree in **Computer Science**
-* 📚 Specialist in **Flutter / React Native**
+* 🎓 Postgraduate degree in **Mobile Application Development**
+* 📚 Specialist in **Flutter and React Native**
 * 🌱 Currently improving my **English, Java and Swift** skills
-* 💡 Always learning and looking for better ways to build software
+* 💡 Always learning and looking for better ways to **design, build and improve software**
+
 
 ---
 
