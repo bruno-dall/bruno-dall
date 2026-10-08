@@ -82,6 +82,18 @@ Currently, I'm focused on deepening my knowledge of **Flutter, software architec
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDalI&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=BrunoDalI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDalI&layout=compact&langs_count=7&theme=dark"
+  />
+</div>
 ---
 
 ## 📜 Certifications
