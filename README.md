@@ -75,6 +75,24 @@ Currently, I'm focused on deepening my knowledge of **Flutter, software architec
 
 ---
 
+## 🏗️ Engineering Principles
+
+I believe good software is not only about making things work, but also about making them **easy to understand, maintain and evolve**.
+
+My development approach focuses on:
+
+* 🧩 **SOLID Principles**
+* 🏗️ **Clean Architecture**
+* 🎯 **Separation of Concerns**
+* 🔄 **Reusable Components**
+* 🧪 **Testable Code**
+* 📐 **Design Patterns**
+* 🚀 **Performance & Scalability**
+* 🔐 **Security & Best Practices**
+* 📖 **Readable and Maintainable Code**
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
